@@ -7,3 +7,8 @@ class Network:
     
     def another_method(self):
         print("Hi")
+
+
+    def this_method(self):
+
+        print('Malek is too slow')
